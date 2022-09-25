@@ -21,7 +21,7 @@ def lesson2_hometask05():
         index_num1 = random.randint(0, size - 1)
         index_num2 = random.randint(0, size - 1)
         if index_num1 == index_num2:
-            continue;
+            continue
 
         l[index_num1], l[index_num2] = l[index_num2], l[index_num1]
         count_replace -= 1

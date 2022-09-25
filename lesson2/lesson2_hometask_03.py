@@ -15,4 +15,4 @@ def lesson2_hometask03():
         res.append(value)
 
     print(res)
-    print('сумма числе равна:', sum)
+    print('сумма чисел равна:', sum)
